@@ -23,6 +23,10 @@ h1 {
     font-size: 3em;
     font-family:'Gill Sans';
 }
+h2 {
+    font-size: 2em;
+    font-family:'Gill Sans';
+}
 h4 {
     font-size: 1;
     font-family:'Gill Sans';
@@ -31,8 +35,10 @@ img {
     float: left;
 }
 p {
+    display: block;
     font-size: 0.9em;
-    margin-left: 0.25em;
+    font-family: 'Gill Sans';
+    margin-left: 0.5em;
     line-height: 1.4em;
     color: #333;
 }
