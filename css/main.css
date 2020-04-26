@@ -55,11 +55,11 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    font-family: 'Gill Sans'
+    font-family: 'Gill Sans';
     font-size: 0.9em;
 }
 
 td {
-  font-family: 'Gill Sans';
-  font-size: 0.9em;
+    font-family: 'Gill Sans';
+    font-size: 0.9em;
 }
