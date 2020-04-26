@@ -24,7 +24,7 @@ h1 {
     font-family:'Gill Sans';
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 2;
     font-family:'Gill Sans';
 }
 h4 {
@@ -55,4 +55,11 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-family: 'Gill Sans'
+    font-size: 0.9em;
+}
+
+td {
+  font-family: 'Gill Sans';
+  font-size: 0.9em;
 }
