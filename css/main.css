@@ -24,12 +24,13 @@ h1 {
     font-family:'Gill Sans';
 }
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family:'Gill Sans';
 }
 h4 {
     font-size: 1;
     font-family:'Gill Sans';
+    margin-left: 0.5em;
 }
 img {
     float: left;
@@ -47,8 +48,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
